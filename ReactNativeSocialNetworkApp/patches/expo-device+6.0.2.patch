@@ -1,0 +1,790 @@
+diff --git a/node_modules/expo-device/android/build/.transforms/abdf5c2e6d3f24426a2ca00051cd9142/results.bin b/node_modules/expo-device/android/build/.transforms/abdf5c2e6d3f24426a2ca00051cd9142/results.bin
+new file mode 100644
+index 0000000..0d259dd
+--- /dev/null
++++ b/node_modules/expo-device/android/build/.transforms/abdf5c2e6d3f24426a2ca00051cd9142/results.bin
+@@ -0,0 +1 @@
++o/classes
+diff --git a/node_modules/expo-device/android/build/.transforms/abdf5c2e6d3f24426a2ca00051cd9142/transformed/classes/classes_dex/classes.dex b/node_modules/expo-device/android/build/.transforms/abdf5c2e6d3f24426a2ca00051cd9142/transformed/classes/classes_dex/classes.dex
+new file mode 100644
+index 0000000..d05c9ba
+Binary files /dev/null and b/node_modules/expo-device/android/build/.transforms/abdf5c2e6d3f24426a2ca00051cd9142/transformed/classes/classes_dex/classes.dex differ
+diff --git a/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/results.bin b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/results.bin
+new file mode 100644
+index 0000000..7ed749e
+--- /dev/null
++++ b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/results.bin
+@@ -0,0 +1 @@
++o/bundleLibRuntimeToDirDebug
+diff --git a/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/BuildConfig.dex b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/BuildConfig.dex
+new file mode 100644
+index 0000000..fc39239
+Binary files /dev/null and b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/BuildConfig.dex differ
+diff --git a/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$Companion.dex b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$Companion.dex
+new file mode 100644
+index 0000000..45c56b5
+Binary files /dev/null and b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$Companion.dex differ
+diff --git a/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$DeviceType.dex b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$DeviceType.dex
+new file mode 100644
+index 0000000..76862b1
+Binary files /dev/null and b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$DeviceType.dex differ
+diff --git a/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$1$1.dex b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$1$1.dex
+new file mode 100644
+index 0000000..6eb7505
+Binary files /dev/null and b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$1$1.dex differ
+diff --git a/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$1.dex b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$1.dex
+new file mode 100644
+index 0000000..a766812
+Binary files /dev/null and b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$1.dex differ
+diff --git a/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$2.dex b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$2.dex
+new file mode 100644
+index 0000000..348447f
+Binary files /dev/null and b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$2.dex differ
+diff --git a/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$3.dex b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$3.dex
+new file mode 100644
+index 0000000..cf85854
+Binary files /dev/null and b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$3.dex differ
+diff --git a/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$4.dex b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$4.dex
+new file mode 100644
+index 0000000..52d0b1e
+Binary files /dev/null and b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$4.dex differ
+diff --git a/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$5.dex b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$5.dex
+new file mode 100644
+index 0000000..0a18b13
+Binary files /dev/null and b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$5.dex differ
+diff --git a/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$6.dex b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$6.dex
+new file mode 100644
+index 0000000..c0b811a
+Binary files /dev/null and b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$6.dex differ
+diff --git a/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$7.dex b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$7.dex
+new file mode 100644
+index 0000000..bf3363a
+Binary files /dev/null and b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$7.dex differ
+diff --git a/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$8.dex b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$8.dex
+new file mode 100644
+index 0000000..e719c4d
+Binary files /dev/null and b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$8.dex differ
+diff --git a/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$9.dex b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$9.dex
+new file mode 100644
+index 0000000..df14611
+Binary files /dev/null and b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$9.dex differ
+diff --git a/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule.dex b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule.dex
+new file mode 100644
+index 0000000..f326301
+Binary files /dev/null and b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/expo/modules/device/DeviceModule.dex differ
+diff --git a/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/desugar_graph.bin b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/desugar_graph.bin
+new file mode 100644
+index 0000000..601f245
+Binary files /dev/null and b/node_modules/expo-device/android/build/.transforms/ad2ac1aafee11505f390555197608b50/transformed/bundleLibRuntimeToDirDebug/desugar_graph.bin differ
+diff --git a/node_modules/expo-device/android/build/generated/source/buildConfig/debug/expo/modules/device/BuildConfig.java b/node_modules/expo-device/android/build/generated/source/buildConfig/debug/expo/modules/device/BuildConfig.java
+new file mode 100644
+index 0000000..3e72890
+--- /dev/null
++++ b/node_modules/expo-device/android/build/generated/source/buildConfig/debug/expo/modules/device/BuildConfig.java
+@@ -0,0 +1,10 @@
++/**
++ * Automatically generated file. DO NOT MODIFY
++ */
++package expo.modules.device;
++
++public final class BuildConfig {
++  public static final boolean DEBUG = Boolean.parseBoolean("true");
++  public static final String LIBRARY_PACKAGE_NAME = "expo.modules.device";
++  public static final String BUILD_TYPE = "debug";
++}
+diff --git a/node_modules/expo-device/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml b/node_modules/expo-device/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml
+new file mode 100644
+index 0000000..2b644ee
+--- /dev/null
++++ b/node_modules/expo-device/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="expo.modules.device" >
++
++    <uses-sdk android:minSdkVersion="24" />
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/expo-device/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/output-metadata.json b/node_modules/expo-device/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/output-metadata.json
+new file mode 100644
+index 0000000..c545a14
+--- /dev/null
++++ b/node_modules/expo-device/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/output-metadata.json
+@@ -0,0 +1,18 @@
++{
++  "version": 3,
++  "artifactType": {
++    "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
++    "kind": "Directory"
++  },
++  "applicationId": "expo.modules.device",
++  "variantName": "debug",
++  "elements": [
++    {
++      "type": "SINGLE",
++      "filters": [],
++      "attributes": [],
++      "outputFile": "AndroidManifest.xml"
++    }
++  ],
++  "elementType": "File"
++}
+\ No newline at end of file
+diff --git a/node_modules/expo-device/android/build/intermediates/aar_metadata/debug/writeDebugAarMetadata/aar-metadata.properties b/node_modules/expo-device/android/build/intermediates/aar_metadata/debug/writeDebugAarMetadata/aar-metadata.properties
+new file mode 100644
+index 0000000..1211b1e
+--- /dev/null
++++ b/node_modules/expo-device/android/build/intermediates/aar_metadata/debug/writeDebugAarMetadata/aar-metadata.properties
+@@ -0,0 +1,6 @@
++aarFormatVersion=1.0
++aarMetadataVersion=1.0
++minCompileSdk=1
++minCompileSdkExtension=0
++minAndroidGradlePluginVersion=1.0.0
++coreLibraryDesugaringEnabled=false
+diff --git a/node_modules/expo-device/android/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json b/node_modules/expo-device/android/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json
+new file mode 100644
+index 0000000..9e26dfe
+--- /dev/null
++++ b/node_modules/expo-device/android/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json
+@@ -0,0 +1 @@
++{}
+\ No newline at end of file
+diff --git a/node_modules/expo-device/android/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar b/node_modules/expo-device/android/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar
+new file mode 100644
+index 0000000..a32fdb5
+Binary files /dev/null and b/node_modules/expo-device/android/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar differ
+diff --git a/node_modules/expo-device/android/build/intermediates/compile_r_class_jar/debug/generateDebugRFile/R.jar b/node_modules/expo-device/android/build/intermediates/compile_r_class_jar/debug/generateDebugRFile/R.jar
+new file mode 100644
+index 0000000..05f3989
+Binary files /dev/null and b/node_modules/expo-device/android/build/intermediates/compile_r_class_jar/debug/generateDebugRFile/R.jar differ
+diff --git a/node_modules/expo-device/android/build/intermediates/compile_symbol_list/debug/generateDebugRFile/R.txt b/node_modules/expo-device/android/build/intermediates/compile_symbol_list/debug/generateDebugRFile/R.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/node_modules/expo-device/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties b/node_modules/expo-device/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
+new file mode 100644
+index 0000000..ee6d5e1
+--- /dev/null
++++ b/node_modules/expo-device/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
+@@ -0,0 +1 @@
++#Tue Nov 04 15:01:08 EAT 2025
+diff --git a/node_modules/expo-device/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml b/node_modules/expo-device/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml
+new file mode 100644
+index 0000000..165cd20
+--- /dev/null
++++ b/node_modules/expo-device/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/adonias/Downloads/react-native-social-network-app/ReactNativeSocialNetworkApp/node_modules/expo-device/android/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/adonias/Downloads/react-native-social-network-app/ReactNativeSocialNetworkApp/node_modules/expo-device/android/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/adonias/Downloads/react-native-social-network-app/ReactNativeSocialNetworkApp/node_modules/expo-device/android/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/adonias/Downloads/react-native-social-network-app/ReactNativeSocialNetworkApp/node_modules/expo-device/android/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/adonias/Downloads/react-native-social-network-app/ReactNativeSocialNetworkApp/node_modules/expo-device/android/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/adonias/Downloads/react-native-social-network-app/ReactNativeSocialNetworkApp/node_modules/expo-device/android/build/generated/res/resValues/debug"/></dataSet><mergedItems/></merger>
+\ No newline at end of file
+diff --git a/node_modules/expo-device/android/build/intermediates/incremental/mergeDebugAssets/merger.xml b/node_modules/expo-device/android/build/intermediates/incremental/mergeDebugAssets/merger.xml
+new file mode 100644
+index 0000000..bc23e9d
+--- /dev/null
++++ b/node_modules/expo-device/android/build/intermediates/incremental/mergeDebugAssets/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/adonias/Downloads/react-native-social-network-app/ReactNativeSocialNetworkApp/node_modules/expo-device/android/src/main/assets"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/adonias/Downloads/react-native-social-network-app/ReactNativeSocialNetworkApp/node_modules/expo-device/android/src/debug/assets"/></dataSet><dataSet config="generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/adonias/Downloads/react-native-social-network-app/ReactNativeSocialNetworkApp/node_modules/expo-device/android/build/intermediates/shader_assets/debug/compileDebugShaders/out"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/expo-device/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml b/node_modules/expo-device/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml
+new file mode 100644
+index 0000000..3972885
+--- /dev/null
++++ b/node_modules/expo-device/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/adonias/Downloads/react-native-social-network-app/ReactNativeSocialNetworkApp/node_modules/expo-device/android/src/main/jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/adonias/Downloads/react-native-social-network-app/ReactNativeSocialNetworkApp/node_modules/expo-device/android/src/debug/jniLibs"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/expo-device/android/build/intermediates/incremental/mergeDebugShaders/merger.xml b/node_modules/expo-device/android/build/intermediates/incremental/mergeDebugShaders/merger.xml
+new file mode 100644
+index 0000000..bc34de2
+--- /dev/null
++++ b/node_modules/expo-device/android/build/intermediates/incremental/mergeDebugShaders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/adonias/Downloads/react-native-social-network-app/ReactNativeSocialNetworkApp/node_modules/expo-device/android/src/main/shaders"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/adonias/Downloads/react-native-social-network-app/ReactNativeSocialNetworkApp/node_modules/expo-device/android/src/debug/shaders"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/expo-device/android/build/intermediates/java_res/debug/processDebugJavaRes/out/META-INF/expo-device_debug.kotlin_module b/node_modules/expo-device/android/build/intermediates/java_res/debug/processDebugJavaRes/out/META-INF/expo-device_debug.kotlin_module
+new file mode 100644
+index 0000000..9dbc290
+Binary files /dev/null and b/node_modules/expo-device/android/build/intermediates/java_res/debug/processDebugJavaRes/out/META-INF/expo-device_debug.kotlin_module differ
+diff --git a/node_modules/expo-device/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/expo/modules/device/BuildConfig.class b/node_modules/expo-device/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/expo/modules/device/BuildConfig.class
+new file mode 100644
+index 0000000..c415b2a
+Binary files /dev/null and b/node_modules/expo-device/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/expo/modules/device/BuildConfig.class differ
+diff --git a/node_modules/expo-device/android/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt b/node_modules/expo-device/android/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt
+new file mode 100644
+index 0000000..78ac5b8
+--- /dev/null
++++ b/node_modules/expo-device/android/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt
+@@ -0,0 +1,2 @@
++R_DEF: Internal format may change without notice
++local
+diff --git a/node_modules/expo-device/android/build/intermediates/manifest_merge_blame_file/debug/processDebugManifest/manifest-merger-blame-debug-report.txt b/node_modules/expo-device/android/build/intermediates/manifest_merge_blame_file/debug/processDebugManifest/manifest-merger-blame-debug-report.txt
+new file mode 100644
+index 0000000..c51fb89
+--- /dev/null
++++ b/node_modules/expo-device/android/build/intermediates/manifest_merge_blame_file/debug/processDebugManifest/manifest-merger-blame-debug-report.txt
+@@ -0,0 +1,7 @@
++1<?xml version="1.0" encoding="utf-8"?>
++2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++3    package="expo.modules.device" >
++4
++5    <uses-sdk android:minSdkVersion="24" />
++6
++7</manifest>
+diff --git a/node_modules/expo-device/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml b/node_modules/expo-device/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml
+new file mode 100644
+index 0000000..2b644ee
+--- /dev/null
++++ b/node_modules/expo-device/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="expo.modules.device" >
++
++    <uses-sdk android:minSdkVersion="24" />
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/expo-device/android/build/intermediates/navigation_json/debug/extractDeepLinksDebug/navigation.json b/node_modules/expo-device/android/build/intermediates/navigation_json/debug/extractDeepLinksDebug/navigation.json
+new file mode 100644
+index 0000000..0637a08
+--- /dev/null
++++ b/node_modules/expo-device/android/build/intermediates/navigation_json/debug/extractDeepLinksDebug/navigation.json
+@@ -0,0 +1 @@
++[]
+\ No newline at end of file
+diff --git a/node_modules/expo-device/android/build/intermediates/nested_resources_validation_report/debug/generateDebugResources/nestedResourcesValidationReport.txt b/node_modules/expo-device/android/build/intermediates/nested_resources_validation_report/debug/generateDebugResources/nestedResourcesValidationReport.txt
+new file mode 100644
+index 0000000..08f4ebe
+--- /dev/null
++++ b/node_modules/expo-device/android/build/intermediates/nested_resources_validation_report/debug/generateDebugResources/nestedResourcesValidationReport.txt
+@@ -0,0 +1 @@
++0 Warning/Error
+\ No newline at end of file
+diff --git a/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/META-INF/expo-device_debug.kotlin_module b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/META-INF/expo-device_debug.kotlin_module
+new file mode 100644
+index 0000000..9dbc290
+Binary files /dev/null and b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/META-INF/expo-device_debug.kotlin_module differ
+diff --git a/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/BuildConfig.class b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/BuildConfig.class
+new file mode 100644
+index 0000000..c415b2a
+Binary files /dev/null and b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/BuildConfig.class differ
+diff --git a/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$Companion.class b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$Companion.class
+new file mode 100644
+index 0000000..13720d9
+Binary files /dev/null and b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$Companion.class differ
+diff --git a/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$DeviceType.class b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$DeviceType.class
+new file mode 100644
+index 0000000..b627550
+Binary files /dev/null and b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$DeviceType.class differ
+diff --git a/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$1$1.class b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$1$1.class
+new file mode 100644
+index 0000000..a18ed6f
+Binary files /dev/null and b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$1$1.class differ
+diff --git a/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$1.class b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$1.class
+new file mode 100644
+index 0000000..b4e0843
+Binary files /dev/null and b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$1.class differ
+diff --git a/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$2.class b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$2.class
+new file mode 100644
+index 0000000..1666e34
+Binary files /dev/null and b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$2.class differ
+diff --git a/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$3.class b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$3.class
+new file mode 100644
+index 0000000..ed14bf9
+Binary files /dev/null and b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$3.class differ
+diff --git a/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$4.class b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$4.class
+new file mode 100644
+index 0000000..8578684
+Binary files /dev/null and b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$4.class differ
+diff --git a/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$5.class b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$5.class
+new file mode 100644
+index 0000000..17a447b
+Binary files /dev/null and b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$5.class differ
+diff --git a/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$6.class b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$6.class
+new file mode 100644
+index 0000000..fc11ea1
+Binary files /dev/null and b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$6.class differ
+diff --git a/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$7.class b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$7.class
+new file mode 100644
+index 0000000..d2b8394
+Binary files /dev/null and b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$7.class differ
+diff --git a/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$8.class b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$8.class
+new file mode 100644
+index 0000000..cd048dc
+Binary files /dev/null and b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$8.class differ
+diff --git a/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$9.class b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$9.class
+new file mode 100644
+index 0000000..d289571
+Binary files /dev/null and b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$9.class differ
+diff --git a/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule.class b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule.class
+new file mode 100644
+index 0000000..4518ed4
+Binary files /dev/null and b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/expo/modules/device/DeviceModule.class differ
+diff --git a/node_modules/expo-device/android/build/intermediates/runtime_library_classes_jar/debug/bundleLibRuntimeToJarDebug/classes.jar b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_jar/debug/bundleLibRuntimeToJarDebug/classes.jar
+new file mode 100644
+index 0000000..0376ade
+Binary files /dev/null and b/node_modules/expo-device/android/build/intermediates/runtime_library_classes_jar/debug/bundleLibRuntimeToJarDebug/classes.jar differ
+diff --git a/node_modules/expo-device/android/build/intermediates/symbol_list_with_package_name/debug/generateDebugRFile/package-aware-r.txt b/node_modules/expo-device/android/build/intermediates/symbol_list_with_package_name/debug/generateDebugRFile/package-aware-r.txt
+new file mode 100644
+index 0000000..e01f237
+--- /dev/null
++++ b/node_modules/expo-device/android/build/intermediates/symbol_list_with_package_name/debug/generateDebugRFile/package-aware-r.txt
+@@ -0,0 +1 @@
++expo.modules.device
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab
+new file mode 100644
+index 0000000..bdf584a
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream
+new file mode 100644
+index 0000000..e43d219
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len
+new file mode 100644
+index 0000000..ec93ed1
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len
+new file mode 100644
+index 0000000..2a17e6e
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at
+new file mode 100644
+index 0000000..50a5f56
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i
+new file mode 100644
+index 0000000..cf17eaf
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab
+new file mode 100644
+index 0000000..90b6202
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream
+new file mode 100644
+index 0000000..07e6e7e
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len
+new file mode 100644
+index 0000000..d8119db
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len
+new file mode 100644
+index 0000000..a9f80ae
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at
+new file mode 100644
+index 0000000..fe23964
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i
+new file mode 100644
+index 0000000..ca111f4
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab
+new file mode 100644
+index 0000000..36c5616
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream
+new file mode 100644
+index 0000000..07e6e7e
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len
+new file mode 100644
+index 0000000..d8119db
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len
+new file mode 100644
+index 0000000..a9f80ae
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at
+new file mode 100644
+index 0000000..ae00c40
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i
+new file mode 100644
+index 0000000..ca111f4
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab
+new file mode 100644
+index 0000000..3b1699a
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream
+new file mode 100644
+index 0000000..15fa246
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len
+new file mode 100644
+index 0000000..a69bd7d
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len
+new file mode 100644
+index 0000000..6f677df
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at
+new file mode 100644
+index 0000000..d994074
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i
+new file mode 100644
+index 0000000..5cf1e71
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab
+new file mode 100644
+index 0000000..86b312c
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream
+new file mode 100644
+index 0000000..6fc1596
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len
+new file mode 100644
+index 0000000..e2347f8
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len
+new file mode 100644
+index 0000000..93a595b
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at
+new file mode 100644
+index 0000000..06f84c7
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i
+new file mode 100644
+index 0000000..f97fcd4
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab
+new file mode 100644
+index 0000000..bdf584a
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream
+new file mode 100644
+index 0000000..e43d219
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len
+new file mode 100644
+index 0000000..ec93ed1
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len
+new file mode 100644
+index 0000000..2a17e6e
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at
+new file mode 100644
+index 0000000..c134a0c
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i
+new file mode 100644
+index 0000000..cf17eaf
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab
+new file mode 100644
+index 0000000..9e3c7ec
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream
+new file mode 100644
+index 0000000..37d34f8
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len
+new file mode 100644
+index 0000000..8107e24
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len
+new file mode 100644
+index 0000000..01bdaa1
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at
+new file mode 100644
+index 0000000..2bd9b81
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i
+new file mode 100644
+index 0000000..332d673
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab
+new file mode 100644
+index 0000000..abc1d38
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream
+new file mode 100644
+index 0000000..b346106
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len
+new file mode 100644
+index 0000000..b9a3d70
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len
+new file mode 100644
+index 0000000..01bdaa1
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at
+new file mode 100644
+index 0000000..152973f
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i
+new file mode 100644
+index 0000000..eba30ac
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/counters.tab b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/counters.tab
+new file mode 100644
+index 0000000..166c057
+--- /dev/null
++++ b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/counters.tab
+@@ -0,0 +1,2 @@
++1
++0
+\ No newline at end of file
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab
+new file mode 100644
+index 0000000..bdf584a
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream
+new file mode 100644
+index 0000000..e43d219
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len
+new file mode 100644
+index 0000000..ec93ed1
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len
+new file mode 100644
+index 0000000..2a17e6e
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at
+new file mode 100644
+index 0000000..5875372
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i
+new file mode 100644
+index 0000000..cf17eaf
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab
+new file mode 100644
+index 0000000..8aad32b
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream
+new file mode 100644
+index 0000000..08e7df1
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len
+new file mode 100644
+index 0000000..b7da01d
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len
+new file mode 100644
+index 0000000..2a17e6e
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at
+new file mode 100644
+index 0000000..ad88d8d
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len
+new file mode 100644
+index 0000000..1b1cb4d
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab
+new file mode 100644
+index 0000000..38f54e8
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream
+new file mode 100644
+index 0000000..2d98535
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len
+new file mode 100644
+index 0000000..5abed05
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len
+new file mode 100644
+index 0000000..79208b6
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at
+new file mode 100644
+index 0000000..d28fbdc
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i
+new file mode 100644
+index 0000000..6b02756
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/last-build.bin b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/last-build.bin
+new file mode 100644
+index 0000000..8c76cbd
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/cacheable/last-build.bin differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin
+new file mode 100644
+index 0000000..63f1acf
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin differ
+diff --git a/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/local-state/build-history.bin b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/local-state/build-history.bin
+new file mode 100644
+index 0000000..99cc5ef
+Binary files /dev/null and b/node_modules/expo-device/android/build/kotlin/compileDebugKotlin/local-state/build-history.bin differ
+diff --git a/node_modules/expo-device/android/build/outputs/logs/manifest-merger-debug-report.txt b/node_modules/expo-device/android/build/outputs/logs/manifest-merger-debug-report.txt
+new file mode 100644
+index 0000000..cf1d487
+--- /dev/null
++++ b/node_modules/expo-device/android/build/outputs/logs/manifest-merger-debug-report.txt
+@@ -0,0 +1,16 @@
++-- Merging decision tree log ---
++manifest
++ADDED from /Users/adonias/Downloads/react-native-social-network-app/ReactNativeSocialNetworkApp/node_modules/expo-device/android/src/main/AndroidManifest.xml:1:1-3:12
++INJECTED from /Users/adonias/Downloads/react-native-social-network-app/ReactNativeSocialNetworkApp/node_modules/expo-device/android/src/main/AndroidManifest.xml:1:1-3:12
++	package
++		INJECTED from /Users/adonias/Downloads/react-native-social-network-app/ReactNativeSocialNetworkApp/node_modules/expo-device/android/src/main/AndroidManifest.xml
++	xmlns:android
++		ADDED from /Users/adonias/Downloads/react-native-social-network-app/ReactNativeSocialNetworkApp/node_modules/expo-device/android/src/main/AndroidManifest.xml:1:11-69
++uses-sdk
++INJECTED from /Users/adonias/Downloads/react-native-social-network-app/ReactNativeSocialNetworkApp/node_modules/expo-device/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
++INJECTED from /Users/adonias/Downloads/react-native-social-network-app/ReactNativeSocialNetworkApp/node_modules/expo-device/android/src/main/AndroidManifest.xml
++INJECTED from /Users/adonias/Downloads/react-native-social-network-app/ReactNativeSocialNetworkApp/node_modules/expo-device/android/src/main/AndroidManifest.xml
++	android:targetSdkVersion
++		INJECTED from /Users/adonias/Downloads/react-native-social-network-app/ReactNativeSocialNetworkApp/node_modules/expo-device/android/src/main/AndroidManifest.xml
++	android:minSdkVersion
++		INJECTED from /Users/adonias/Downloads/react-native-social-network-app/ReactNativeSocialNetworkApp/node_modules/expo-device/android/src/main/AndroidManifest.xml
+diff --git a/node_modules/expo-device/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin b/node_modules/expo-device/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin
+new file mode 100644
+index 0000000..35299f7
+Binary files /dev/null and b/node_modules/expo-device/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin differ
+diff --git a/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/META-INF/expo-device_debug.kotlin_module b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/META-INF/expo-device_debug.kotlin_module
+new file mode 100644
+index 0000000..9dbc290
+Binary files /dev/null and b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/META-INF/expo-device_debug.kotlin_module differ
+diff --git a/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$Companion.class b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$Companion.class
+new file mode 100644
+index 0000000..13720d9
+Binary files /dev/null and b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$Companion.class differ
+diff --git a/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$DeviceType.class b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$DeviceType.class
+new file mode 100644
+index 0000000..b627550
+Binary files /dev/null and b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$DeviceType.class differ
+diff --git a/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$1$1.class b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$1$1.class
+new file mode 100644
+index 0000000..a18ed6f
+Binary files /dev/null and b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$1$1.class differ
+diff --git a/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$1.class b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$1.class
+new file mode 100644
+index 0000000..b4e0843
+Binary files /dev/null and b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$1.class differ
+diff --git a/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$2.class b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$2.class
+new file mode 100644
+index 0000000..1666e34
+Binary files /dev/null and b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$2.class differ
+diff --git a/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$3.class b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$3.class
+new file mode 100644
+index 0000000..ed14bf9
+Binary files /dev/null and b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$3.class differ
+diff --git a/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$4.class b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$4.class
+new file mode 100644
+index 0000000..8578684
+Binary files /dev/null and b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$4.class differ
+diff --git a/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$5.class b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$5.class
+new file mode 100644
+index 0000000..17a447b
+Binary files /dev/null and b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$5.class differ
+diff --git a/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$6.class b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$6.class
+new file mode 100644
+index 0000000..fc11ea1
+Binary files /dev/null and b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$6.class differ
+diff --git a/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$7.class b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$7.class
+new file mode 100644
+index 0000000..d2b8394
+Binary files /dev/null and b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$7.class differ
+diff --git a/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$8.class b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$8.class
+new file mode 100644
+index 0000000..cd048dc
+Binary files /dev/null and b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$8.class differ
+diff --git a/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$9.class b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$9.class
+new file mode 100644
+index 0000000..d289571
+Binary files /dev/null and b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule$definition$lambda$8$$inlined$AsyncFunction$9.class differ
+diff --git a/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule.class b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule.class
+new file mode 100644
+index 0000000..4518ed4
+Binary files /dev/null and b/node_modules/expo-device/android/build/tmp/kotlin-classes/debug/expo/modules/device/DeviceModule.class differ
+diff --git a/node_modules/expo-device/ios/UIDevice.swift b/node_modules/expo-device/ios/UIDevice.swift
+index 7d58ee8..3a5b77a 100644
+--- a/node_modules/expo-device/ios/UIDevice.swift
++++ b/node_modules/expo-device/ios/UIDevice.swift
+@@ -1,3 +1,4 @@
++
+ import UIKit
+ 
+ struct ExpoDeviceType {
+@@ -143,7 +144,7 @@ public extension UIDevice {
+       case "iPad13,4", "iPad13,5", "iPad13,6", "iPad13,7":
+         return ExpoDeviceType(modelName: "iPad Pro (11-inch) (3rd generation)", deviceYearClass: 2021)
+       case "iPad14,3-A", "iPad14,3-B", "iPad14,4-A", "iPad14,4-B":
+-        return ExpoDeviceType(modelName: "iPad Pro (11-inch) (4rd generation)", deviceYearClass: 2022)
++        return ExpoDeviceType(modelName: "iPad Pro (11-inch) (4th generation)", deviceYearClass: 2022)
+       case "iPad6,7", "iPad6,8":
+         return ExpoDeviceType(modelName: "iPad Pro (12.9-inch) (1st generation)", deviceYearClass: 2015)
+       case "iPad7,1", "iPad7,2":
+@@ -185,7 +186,11 @@ public extension UIDevice {
+ 
+   // Credit: https://github.com/developerinsider/isJailBroken/blob/master/IsJailBroken/Extension/UIDevice%2BJailBroken.swift
+   var isSimulator: Bool {
+-    return TARGET_OS_SIMULATOR != 0
++    #if targetEnvironment(simulator)
++      return true
++    #else
++      return false
++    #endif
+   }
+ 
+   var isJailbroken: Bool {
+@@ -231,9 +236,6 @@ private struct JailbreakHelper {
+     }
+   }
+ 
+-  /**
+-   Add more paths here to check for jail break
+-   */
+   static var suspiciousAppsPathToCheck: [String] {
+     return [
+       "/Applications/Cydia.app",
+@@ -269,3 +271,4 @@ private struct JailbreakHelper {
+     ]
+   }
+ }
++

@@ -1,0 +1,314 @@
+# ===================================
+# SECRETS & ENVIRONMENT VARIABLES
+# ===================================
+.env
+.env.*
+.env.local
+.env.development
+.env.production
+.env.test
+*.env
+
+# API Keys and Secrets
+**/*secret*
+**/*Secret*
+**/*SECRET*
+**/credentials.json
+**/secrets.json
+
+# ===================================
+# FIREBASE CONFIGURATION
+# ===================================
+# Exclude Firebase config files with private keys
+**/GoogleService-Info.plist
+**/google-services.json
+**/firebase-config.js
+**/firebase-config.ts
+**/firebaseConfig.js
+**/firebaseConfig.ts
+**/google-services-web.json
+
+# Specific Firebase config files with numbered versions
+google-services (1).json
+GoogleService-Info (1).plist
+
+# Keep backup configs directory but ignore its contents
+firebase-configs-backup/*
+!firebase-configs-backup/.gitkeep
+
+# Web file (contains Firebase web config)
+web
+
+# ===================================
+# REACT NATIVE / EXPO
+# ===================================
+node_modules/
+.expo/
+.expo-shared/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+.yarn/
+package-lock.json
+
+# ===================================
+# iOS
+# ===================================
+**/ios/Pods/
+**/ios/build/
+**/ios/.xcode.env.local
+**/ios/**/*.ipa
+**/ios/**/*.xcarchive
+**/ios/**/*.dSYM.zip
+**/ios/**/*.dSYM
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+xcuserdata/
+DerivedData/
+.idea/
+*.hmap
+*.ipa
+*.xcworkspace/xcuserdata
+**/ios/main.jsbundle
+**/ios/main.jsbundle.map
+
+# CocoaPods
+Pods/
+**/Podfile.lock
+
+# ===================================
+# ANDROID
+# ===================================
+**/android/build/
+**/android/app/build/
+**/android/.gradle/
+**/android/local.properties
+**/android/**/*.keystore
+**/android/**/*.jks
+**/android/**/*.apk
+**/android/**/*.aab
+*.apk
+*.aab
+.gradle/
+build/
+captures/
+.cxx/
+local.properties
+
+# ===================================
+# MACOS
+# ===================================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# ===================================
+# LINUX
+# ===================================
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ===================================
+# WINDOWS
+# ===================================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+# ===================================
+# EDITORS & IDEs
+# ===================================
+# VSCode
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# JetBrains
+.idea/
+*.iml
+*.iws
+.idea_modules/
+out/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Vim
+*.swp
+*.swo
+*~
+.vimsession
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# ===================================
+# TESTING & COVERAGE
+# ===================================
+coverage/
+.nyc_output/
+*.lcov
+.jest/
+
+# ===================================
+# LOGS & TEMPORARY FILES
+# ===================================
+*.log
+*.log.*
+logs/
+*.tmp
+*.temp
+tmp/
+temp/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# ===================================
+# BUILD ARTIFACTS
+# ===================================
+dist/
+build/
+out/
+*.tgz
+*.zip
+*.tar.gz
+
+# ===================================
+# MISC
+# ===================================
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+.vuepress/dist
+.serverless/
+.fusebox/
+.dynamodb/
+.tern-port
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# Bundle artifacts
+*.jsbundle
+*.bundle
+
+# FastLane
+**/fastlane/report.xml
+**/fastlane/Preview.html
+**/fastlane/screenshots
+**/fastlane/test_output
+
+# ===================================
+# BACKUP FILES
+# ===================================
+*.bak
+*.backup
+*.old
+*.orig
+*~
+
+# ===================================
+# PROJECT SPECIFIC
+# ===================================
+# Research and documentation (keep in git)
+# research/
+
+# Scripts
+git-push.sh
+
+# Temporary test files
+*.test.js.snap
+*.test.tsx.snap
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# ===================================
+# SECURITY
+# ===================================
+# SSH Keys
+*.pem
+*.key
+*.pub
+id_rsa*
+id_dsa*
+id_ecdsa*
+id_ed25519*
+
+# Certificates
+*.cer
+*.p12
+*.p8
+*.crt
+*.der
+*.pfx
+
+# ===================================
+# REACT NATIVE SPECIFIC
+# ===================================
+# Metro bundler
+.metro-health-check*
+
+# Buck
+buck-out/
+\.buckd/
+*.keystore
+!debug.keystore
+
+# Generated files
+*.generated.ts
+*.generated.js
+*.generated.tsx
+*.generated.jsx
